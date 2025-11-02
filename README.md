@@ -53,4 +53,4 @@ It’s designed as a **TDD-driven full-stack project**, following the **Red → 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Marthalamahithreddy/Sweet-Shop-Management-System-.git
+git clone https://github.com/ehrithikreddy/Sweetshop-Management-System.git
